@@ -53,7 +53,8 @@ When there are multiple agents available to run a job, the server will ask the p
     "config_state": "Enabled"
   },
   "properties": {
-    "property_name": "property_value"
+    "ami-id": "ami-c79d704a",
+    "region": "us-east-1"
   }
 }
 ```
